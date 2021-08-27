@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Rampart+One&display=swap');
+
+body{
+	font-family: 'Rampart One', cursive;
+	background-color: rgb(29, 29, 29);
+}
+.title{
+padding-left: 10px;;
+	
+}
+#GameOver{
+	text-align: center;
+	color: wheat;
+	
+	
+}
+.button{
+	text-align: center;
+	font-family: 'Caveat', cursive;
+}
+.score{
+	margin-top: 50px;
+	display: flex;
+	color:beige;
+}
+.row-div{
+	display:flex;
+	justify-content:center;
+
+}
+.box{
+	width: 80px;
+	height: 80px;
+	border-radius: 5px;
+	padding: 10px;
+	margin:20px;
+	border-color: beige;
+	border-style: solid;
+	
+}
